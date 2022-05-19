@@ -1,3 +1,3 @@
 ### dependencies
-- SASS 
+- SASS - Architecture 5 + 1
 - Axios
