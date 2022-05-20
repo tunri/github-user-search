@@ -1,5 +1,5 @@
 // Import all abstracts .scss files
 // _fonts.scss              # Font Import
 // _mixins.scss             # Scss Mixins
-// _variables.scss          # Scss Variables
+@import 'variables';
 @import 'fonts';
